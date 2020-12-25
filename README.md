@@ -1,6 +1,10 @@
 자연어처리 프로젝트 기말과제
 윤대훈/2019511016/빅데이터융합학과
 
+**Kaggle 예측파일인 sample.csv은 Friends는 friends_emotion폴더, 네이버영화리뷰는 naver_move폴더에 있습니다.** 
+
+**각 폴더에 대한 설명은 아래 참고**
+
 # Friends 대사 데이터 분석 코드 
 **폴더 : friends_emotion**
 
