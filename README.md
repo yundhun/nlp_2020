@@ -14,6 +14,7 @@
 >  실행 방법 : 동일 폴더 내에 Friends 데이터셋 저장 후 ipynb 순차 실행
 
 **참조코드**: 자연어처리 수업 강의자료 7번 예제 코드
+
 **참조 코드 수정 사항**
 - Label Imbalance 문제 해결을 위한 Crossentrophy Weight 계산 로직 추가
 - Droupout 0.5로 조정
@@ -25,8 +26,9 @@
 예측력을 높이기 위해 Droupout 을 조정하여 학습함.
 > 실행 방법 : 동일 폴더 내에 Naver 영화 리뷰 데이터셋을 저장 후 ipynb 순차 실행
 > Validation Data 는 반드시  kaggle 의 csv 가 아닌 동일 폴더에 있는 valid.txt 사용부탁드립니다.
-> 
+
 **참조 코드**: https://github.com/SKTBrain/KoBERT/blob/master/scripts/NSMC/naver_review_classifications_pytorch_kobert.ipynb
+
 **참조 코드 수정 사항**
 - 특별히 없음 
 
