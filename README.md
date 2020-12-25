@@ -28,6 +28,7 @@
 **폴더 : final_report**
 
 *반드시 동일 폴더에 friends_train.json, friends_test.json, friends_dev.json 을 다운로드 받은 후 실행
+*pretrained embedding 사용을 위해 glove.6B.50d.txt ( https://www.kaggle.com/watts2/glove6b50dtxt 에서 다운로드 )를 /glove 폴더에 저장 후 실행
 
 **내용:**
 - **Friends 데이터 전처리 코드**
